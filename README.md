@@ -16,6 +16,11 @@ python manage.py runserver
   I used Bootstrap for design and Crispy for the form which is mostly used for Django
    
  ## Screenshots  
-![App Screenshot]("[images\after_adding.png](https://github.com/kebaHailu/Yeneta_Store/blob/master/images/after_adding.png)https://github.com/kebaHailu/Yeneta_Store/blob/master/images/after_adding.png")  
- 
-![App Screenshot]("images\edit_product.png")  
+ ### see available products
+![App Screenshot](https://github.com/kebaHailu/Yeneta_Store/blob/master/images/products.png)
+### after adding a product
+![App Screenshot](https://github.com/kebaHailu/Yeneta_Store/blob/master/images/after_adding.png)
+### edit a given product
+![App Screenshot](https://github.com/kebaHailu/Yeneta_Store/blob/master/images/edit_product.png)
+### delete a given product
+![App Screenshot](https://github.com/kebaHailu/Yeneta_Store/blob/master/images/delete.png)
