@@ -10,7 +10,10 @@ pip install -r requirements.txt
 # After that make sure the manage.py file exist in the current directory and run the following code
 python manage.py runserver 
 # This will initiate the server and give you the link 
-~~~  
+~~~
+## How to Use
+To edit please click the name of the product which will take you to the edit place 
+The other things are human interactive 
 
   ## Prebuilt Components/Templates 🔥 
   I used Bootstrap for design and Crispy for the form which is mostly used for Django
